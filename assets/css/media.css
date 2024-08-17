@@ -1,0 +1,204 @@
+@media (max-width: 2560px) and (min-width: 1441px){
+}
+
+@media (max-width: 1440px) and (min-width: 1201px){
+}
+
+@media (max-width: 1024px) and (min-width: 993px){
+}
+
+@media (max-width: 1200px) and (min-width: 1025px){
+}
+
+@media (max-width: 1024px) and (min-width: 993px){
+}
+
+@media (max-width: 992px) and (min-width: 769px){
+  .navbar .flex-data{
+    display: list-item;
+    list-style: none;
+  }
+}
+
+@media (max-width: 768px) and (min-width: 577px){
+  .navbar .flex-data{
+    display: list-item;
+    list-style: none;
+  }
+
+  .news .contain h1{
+    font-size: 26px;
+  }
+
+  .news .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  header .contain .email-field{
+    width: 100%;
+  }
+
+  .contact .contain p{
+    width: 100%;
+  }
+}
+
+@media (max-width: 576px) and (min-width: 426px){
+  .navbar .flex-data{
+    display: list-item;
+    list-style: none;
+  }
+
+  .news .contain h1{
+    font-size: 26px;
+  }
+
+  .news .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  header .contain .email-field{
+    width: 100%;
+  }
+
+  header .contain input{
+    width: 70%;
+    font-size: 12px;
+  }
+
+  header .contain button{
+    padding: 10px;
+    font-size: 12px;
+  }
+
+  header .contain .email-field,
+  .contact .contain .contact-info form{
+    width: 100%;
+  }
+
+  .contact .contain p{
+    width: 100%;
+  }
+}
+
+@media (max-width: 425px) and (min-width: 376px){
+  .navbar .flex-data{
+    display: list-item;
+    list-style: none;
+  }
+
+  .news .contain h1{
+    font-size: 26px;
+  }
+
+  .news .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  header .contain .email-field{
+    width: 100%;
+    padding: 10px;
+  }
+
+  header .contain input{
+    width: 100%;
+    font-size: 12px;
+  }
+
+  header .contain button{
+    padding: 10px;
+    font-size: 12px;
+  }
+
+  header .contain .email-field,
+  .contact .contain .contact-info form{
+    width: 100%;
+  }
+
+  .contact .contain p{
+    width: 100%;
+  }
+}
+
+@media (max-width: 375px) and (min-width: 321px){
+  .navbar .flex-data{
+    display: list-item;
+    list-style: none;
+  }
+
+  .news .contain h1{
+    font-size: 26px;
+  }
+
+  .news .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  header .contain .email-field{
+    width: 100%;
+    padding: 10px;
+  }
+
+  header .contain input{
+    width: 100%;
+    font-size: 12px;
+  }
+
+  header .contain button{
+    padding: 10px;
+    font-size: 12px;
+  }
+
+  header .contain .email-field,
+  .contact .contain .contact-info form{
+    width: 100%;
+  }
+
+  .contact .contain p{
+    width: 100%;
+  }
+}
+
+@media (max-width: 320px){
+  .navbar .flex-data{
+    display: list-item;
+    list-style: none;
+  }
+
+  .news .contain h1{
+    font-size: 26px;
+  }
+
+  .news .contain p{
+    width: 100%;
+    font-size: 13px;
+  }
+
+  header .contain .email-field{
+    width: 100%;
+    padding: 10px;
+  }
+
+  header .contain input{
+    width: 100%;
+    font-size: 12px;
+  }
+
+  header .contain button{
+    padding: 10px;
+    font-size: 12px;
+  }
+
+  header .contain .email-field,
+  .contact .contain .contact-info form{
+    width: 100%;
+  }
+
+  .contact .contain p{
+    width: 100%;
+  }
+}
